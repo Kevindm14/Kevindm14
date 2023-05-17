@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**<picture>
+## <picture><img src = "https://github.com/Kevindm14/Kevindm14/blob/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**<picture>
 
 <br>
 
@@ -102,7 +102,7 @@
 <br>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Kevindm14/Kevindm14/blob/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
